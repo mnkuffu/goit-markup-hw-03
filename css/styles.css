@@ -31,11 +31,10 @@ button {
   padding: 0 15px 0 15px;
   margin: 0 auto;
 }
-.container-decore a {
+.container-decore {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 24px 0;
 }
 
 /* Header */
